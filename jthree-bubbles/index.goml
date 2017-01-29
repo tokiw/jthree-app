@@ -7,8 +7,8 @@
 		<mtl id="sky-mtl1-2" type="MeshBasic" param="map: #sky-txr1-2;" />
 		<mtl id="sky-mtl1-3" type="MeshBasic" param="map: #sky-txr1-3;" />
 		<txr id="sky-txr0" src="lib/jThree/img/sky.png" />
-		<txr id="sky-txr1-1" src="img/R0010205.jpg" />
-		<txr id="sky-txr1-2" src="img/R0010207.jpg" />
+		<txr id="sky-txr1-1" src="null" />
+		<txr id="sky-txr1-2" src="null" />
 		<txr id="sky-txr1-3" src="null" />
 		<rdr param="clearColor: #fff;"/>
 	</head>
